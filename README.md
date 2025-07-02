@@ -6,3 +6,8 @@ https://github.com/ashishps1/awesome-system-design-resources?tab=readme-ov-file
 
 
 https://www.systemdesignhandbook.com/blog/top-system-design-interview-questions/
+
+https://www.educative.io/blog/system-design-interview-questions
+
+https://www.educative.io/mock-interview![Uploading image.png…]()
+
